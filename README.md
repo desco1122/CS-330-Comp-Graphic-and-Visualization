@@ -1,3 +1,3 @@
 # CS-330-Comp-Graphic-and-Visualization
 
-https://github.com/desco1122/CS-330-Comp-Graphic-and-Visualization/issues/1#issue-2485499085
+![Screenshot 2024-08-18 170107](https://github.com/user-attachments/assets/acbf7f88-c0e6-4a8c-a3c7-0b404dae5b85)
